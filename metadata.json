@@ -1,0 +1,6 @@
+{
+  "name": "Agendas Demo — Tienda de Agendas 3D",
+  "description": "Prototipo visual de tienda online de agendas con catálogo interactivo, previsualización 3D en 360° y simulador de carga desde Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
